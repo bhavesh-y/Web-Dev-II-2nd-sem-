@@ -59,6 +59,7 @@
 
 
 
+
 // QUES
 
 // let marks =[7,23,34,11,15,28,16,37,0]
@@ -76,5 +77,21 @@
 //     return acc+current
 // })
 // console.log(res)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
