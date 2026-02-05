@@ -1,0 +1,71 @@
+difference between ==(only value) and ===(value with datatypes)
+
+
+
+difference between let  var const
+
+
+what is hoisting and TDZ
+    when we declare 
+
+
+type of operators
+
+
+
+explain the different array methods in javascript
+     Map filter reduce
+     find ar filter
+     map and foreach
+     sum and every method
+     string, object method
+
+
+     
+types of function in javascript
+     regular function
+     arrow function
+     fast class function   
+     callback function
+     higher order function
+     anonymous function
+     self invoking function(IIFE-immeditely invoked funtion expression)
+     
+
+
+hoisting = the variable declaration are function declaration will move to top of the scope
+           it only performs in var not in let and const
+
+
+
+
+
+
+REGULAR FUNCTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+filter vs map vs reduce array funtion
+filter method provide subset of original set while map provide set of 
+same length of original set and reduce give single value array
+
+
+
+
+
+
+
+ques 8 - object methods = differece between object.seal and object.freeze
+
+ques 9 - what is DOM 
+ques 10 - differece between query selector and query selector ALl
