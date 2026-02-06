@@ -69,3 +69,5 @@ ques 8 - object methods = differece between object.seal and object.freeze
 
 ques 9 - what is DOM 
 ques 10 - differece between query selector and query selector ALl
+
+

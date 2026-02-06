@@ -36,8 +36,5 @@ document.getElementById("content").append(new_para);
 
 const image = document.createElement("img")
 image.setAttribute("src","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROgDj1fKbwyAjxoGGan-5jDPUOkHWMWBh3wg&s")
-
-
-
 image.setAttribute("alt","KR mangalam");
 document.getElementById("gallery").append(image);
